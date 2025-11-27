@@ -1,0 +1,420 @@
+Repository,CommitID,Message,Date
+Todo-List-manager,fa680b073d2402c1488e9690afc7ebbab2abdaf0,Create requirements.txt,2025-02-07 04:39:52+00:00
+Todo-List-manager,beeff5d2f9632439211682356c92f93589fa49f6,add points to readme file,2025-02-07 04:32:49+00:00
+Todo-List-manager,43fb03350a0cd5754a1700469a5fd9b10a7c5d60,Update README.md to include date features,2025-02-07 04:31:26+00:00
+Todo-List-manager,3a0daad6a2513146d4ab934b47688b341a11e301,adding files to handle date based task management,2025-02-07 04:29:01+00:00
+Todo-List-manager,e63303e3f46812e832c89e8586759c2576fe0c27,adding todo manager code with date features,2025-02-07 04:26:50+00:00
+Todo-List-manager,9a8460742abfba5efb48a4d51d3756615d7d8e95,adding sample output images,2025-02-07 04:26:21+00:00
+Todo-List-manager,73839554d06f2f6fb2f671996b711650b0984173,Create README.md in output folder,2025-02-07 04:25:42+00:00
+Todo-List-manager,e4104fac00d471ef599f118da38cc0b8e82712ea,adding existing code files,2025-02-07 04:17:55+00:00
+Todo-List-manager,55ad924318f8abf541f9c4b512c9e952cea8cdee,Update README.md,2025-02-07 04:04:01+00:00
+Todo-List-manager,9b97a2c8af7585abb4e31dede89e88cb55dc70e9,Initial commit,2025-02-07 03:53:52+00:00
+Quarterly-Analysis-of-Sales-in-Top-500-Companies,cdb8f027b472eb78ccffd32e634e6241a9444ce9,adding existing files,2025-02-06 16:57:12+00:00
+Quarterly-Analysis-of-Sales-in-Top-500-Companies,f87a1528e38178d26d7cdfab3411b1eeac6266b5,Initial commit,2025-02-06 16:54:53+00:00
+Iris-Data-Classification-Analysis-using-SPSS,037635088af5a497557430f248b0d6ce8b46d316,Rename isis_shap_model.ipynb to iris_shap_model.ipynb,2025-02-04 17:17:07+00:00
+Iris-Data-Classification-Analysis-using-SPSS,ed4a2dc5e54dec70938dc9066889a8a3a8af2773,add shap model to explain random forest,2025-02-04 16:44:41+00:00
+Iris-Data-Classification-Analysis-using-SPSS,e3a551c367fda526f9bd0d3e448491f4cfc7cf2d,Create models folder,2025-02-04 16:43:49+00:00
+Sentiment-Analysis-for-Hate-Speech-Detection,b186d294d174c1e37f5a46b13ada456c07979e5e,Update README.md with solution details,2025-01-22 00:59:22+00:00
+Sentiment-Analysis-for-Hate-Speech-Detection,a0b481618243694aed4b6c009be2383f73d8351d,adding solution file for practice problem,2025-01-22 00:57:17+00:00
+Sentiment-Analysis-for-Hate-Speech-Detection,754e07ba1f5758025baf0813a13bef29614f79d5,adding data .csv files,2025-01-22 00:53:05+00:00
+Sentiment-Analysis-for-Hate-Speech-Detection,b238ddee83fd6ce0cfe4a8305cfaf8de19cd6922,Initial commit,2025-01-22 00:52:24+00:00
+Weather-Data-Pipeline,d6814c2c1b0a5bc9986851498ce47053fb95f043,Create README.md,2025-01-15 14:13:29+00:00
+Diabetes-Prediction,eeb2493ef5341c47b5963e33b96fa5e8cf55fe4c,Update links in README.md,2025-01-14 22:36:31+00:00
+Diabetes-Prediction,638f334d66f0f0156ddadfb05c82c39c514d22e6,remove additional files,2025-01-14 22:34:32+00:00
+Diabetes-Prediction,3d8e0ee73ccc5df2ebdb72a4f13d0b85ef2df88c,removing additional file diabetes_model.sav,2025-01-14 22:33:51+00:00
+Diabetes-Prediction,2e02da35ae3e702ed891592274575d4213f152b2,adding model and requirements files,2025-01-14 22:33:16+00:00
+Diabetes-Prediction,19fddda13d6d43e5fb612a6c54b465d0b70ba58c,Update and rename diabetes.csv to Prediction on Kaggle Dataset/diabetes.csv,2025-01-14 22:32:28+00:00
+Diabetes-Prediction,ef4d7d021d623c22a0ebacc7a93e283dc4afb563,Delete diabetes_data.csv,2025-01-14 22:31:58+00:00
+Diabetes-Prediction,0434f90b92e39234e2a9ea6084b3d53ef111e9d5,adding data,2025-01-14 22:31:17+00:00
+Diabetes-Prediction,80afd124c5d6ddc112012e716150e41689a20b31,Delete Prediction on Mendeley data directory,2025-01-14 22:30:56+00:00
+Diabetes-Prediction,92e91d702477070b4574c996d76a8cc943538d6e,Rename Diabetes_model.ipynb to Prediction on Mendeley Data/Diabetes_model.ipynb,2025-01-14 22:30:25+00:00
+Diabetes-Prediction,dee704f3a6f49f65fc0acedd86748895921d331f,Rename DiabetesPrediction.ipynb to Prediction on Mendeley data/Diabetes Prediction.ipynb,2025-01-14 22:29:48+00:00
+Diabetes-Prediction,585c40f4c3c4cca8475f176fbb0336e7832b8c02,add code files,2025-01-14 22:28:45+00:00
+Stock-Market-Prediction-app,b1bf138482481672eb71c70e437f59d056155177,Update README.md,2025-01-14 11:26:35+00:00
+JeninaAngelin,d3bd5e4fd36556e71f31982ef03ad8ae2788a016,Update README.md,2025-01-14 11:22:25+00:00
+JeninaAngelin,4d0af839f44c2aa646c7e0bccc0c9ef9cb52ebce,Update README.md sample,2025-01-14 11:18:38+00:00
+Predicting-ODI-World-Cup-2023-Champions,c73d11b77770fbdbe7715656ff69ba5a4aca54b6,Update README.md with approach,2025-01-13 17:56:01+00:00
+Predicting-ODI-World-Cup-2023-Champions,8ee20f1550ac186eeb1529cfd98996236b1311ec,Update README.md,2025-01-13 17:51:44+00:00
+Predicting-ODI-World-Cup-2023-Champions,059fbfa7118d26832702975e9fa092636f3a3220,Update README.md,2025-01-13 17:51:28+00:00
+Predicting-ODI-World-Cup-2023-Champions,b141b4cf2d5de2f86cccab86ec63b54cb0680e25,Update challenge name in readme file,2025-01-13 17:50:17+00:00
+Predicting-ODI-World-Cup-2023-Champions,9a9d19d9cdfd592cfb36d21c1e6473de053d1215,Append README.md with results,2025-01-13 17:45:33+00:00
+Weather-Data-Pipeline,2f1aa3843841b835ecf7f53f35e5f95f2904eba8,adding code files,2025-01-09 18:54:32+00:00
+Weather-Data-Pipeline,1a6c28d43d99d57ab0fdfceb02802d70f375510a,remove notebooks directory,2025-01-09 18:53:02+00:00
+Weather-Data-Pipeline,2c4cefd8008a3ddbad1052503df2a37d7781d444,move code_explanation.txt to notebooks/code_explanation.txt,2025-01-09 17:35:10+00:00
+Weather-Data-Pipeline,26cadd016f865ed6dc7ae26cd68d2290abea02e3,Create code_explanation.txt,2025-01-09 17:34:36+00:00
+Weather-Data-Pipeline,ac389853f4dc083f9966336d0de43684e557735e,adding project files,2025-01-09 17:32:22+00:00
+Advent-of-Code-2024,ee0714e62d1b28ddf1481b84d6a9fb8cf4a53944,adding data for day 6,2024-12-23 18:01:16+00:00
+Advent-of-Code-2024,2a7b82b84658a0456a185641d90839bfcb029560,add code and data missing for Day 2,2024-12-23 18:00:00+00:00
+Advent-of-Code-2024,4fa8350f34395a8b26fc1f7718b099e6b4c90454,add code and data missing for Day 2,2024-12-23 17:59:29+00:00
+Advent-of-Code-2024,00c5de733c5c4bef05b8fa5a6a90f2c15a1b971e,adding code files in Day 6,2024-12-21 17:01:45+00:00
+Advent-of-Code-2024,04003e02116953fa3b16dc7a6bce2e35a253ad2b,add data for Day 5,2024-12-20 15:45:25+00:00
+Advent-of-Code-2024,0e4d4eab91203d111d49e708411af181a75dd91f,add data for day 4,2024-12-19 15:37:39+00:00
+Automated-EMI-Reminder-System,59c4ec9afb0e57f216e134f3e9e0bb8cfb9870cc,add presentation to repo,2024-12-16 03:34:44+00:00
+Advent-of-Code-2024,09ce6f141ae3ff0efc876b14f05b10eab756c893,Create Day 16 folder,2024-12-16 03:32:44+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,83cacb4d1e0e79f1d44efa559b39b8c3ca8f38fb,Update results table in README.md,2024-12-16 03:23:08+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,e465f624a1cbe67b6be9b0cef32b8d9808168647,add tools in README.md,2024-12-16 03:20:10+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,11f04ea839f4dee49f00e945f4bf52aeafa3435a,add details to project overview,2024-12-16 03:13:08+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,969360316ebee35783b49018e41450dea9bdf3ca,Update title in markdown,2024-12-16 03:07:48+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,acb7fe74b6558dadf10f445d9c81d7968a84f68e,Add project details to README.md,2024-12-16 03:05:42+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,399fe09491c0a7ca16341daf6893ec5aab53d655,Change path to Resources/Presentation.pdf,2024-12-16 03:01:40+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,6e43148a6c79a90b56ff90c1e9d03ed491f90e95,adding presentation slides,2024-12-16 03:00:39+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,afc1438b0ab65529a89f799c9f9cba564f248cd3,adding and merging files,2024-12-16 02:56:23+00:00
+JeninaAngelin,e52c0d9287486ab771cfdc1161bc0f83dead447c,Update github profile,2024-12-15 18:00:53+00:00
+Advent-of-Code-2024,aa110c85fb99704eb73770b58d450dd6ef3dd7e7,Create Day 12 folder,2024-12-12 17:45:17+00:00
+Advent-of-Code-2024,c2efa56fa42af4324dee5ba263d0ae64df636c3e,Create Day 7 folder,2024-12-11 15:58:15+00:00
+Advent-of-Code-2024,1e29c2d27ceaacb8b1616240b68bb24c13319b05,adding code files and data,2024-12-10 16:13:02+00:00
+Advent-of-Code-2024,090b3d3cf5036fc974029edfde92576f6a44bc7a,Create Day 6 folder,2024-12-09 16:09:59+00:00
+Advent-of-Code-2024,a2c53faada178849e445506b3fb72aae157fba39,Create Day 5 folder,2024-12-07 13:14:48+00:00
+Advent-of-Code-2024,455343030a340b9840be323e029dca4e0db8b380,adding code files for day 4,2024-12-06 15:56:53+00:00
+Advent-of-Code-2024,f9a76f3ceac6bd0d4e4a25c6e23344c07bf790a6,Create README.md for Day 4,2024-12-05 16:44:41+00:00
+Advent-of-Code-2024,697df39d5483aaafd6cf77bd4dd0ac5a5beb375a,adding data and code files,2024-12-04 15:58:25+00:00
+Advent-of-Code-2024,b9250d81ee9c8d369730ae7cf5f6900a97cc5ac2,Create README.md for Day 3,2024-12-03 17:12:39+00:00
+Advent-of-Code-2024,d85b8aeabf3132f4d1c48b21b7e6e8abda730c13,add day2.1.py,2024-12-02 17:00:20+00:00
+Advent-of-Code-2024,e029d158d21b9b2da679a5b4c19883d831fe4ae6,adding data,2024-12-01 18:00:36+00:00
+Advent-of-Code-2024,0452226a78cf4091b818f8dd82804714e69262f7,adding puzzle details,2024-12-01 17:59:57+00:00
+Advent-of-Code-2024,08dae7b443ae03285fefba2d94d0bbe87f9390d8,adding code files for part 1 and 2,2024-12-01 17:58:39+00:00
+Advent-of-Code-2024,924b2895755f4499029a31e47a6f4feddeaff329,create readme file for Day 1,2024-12-01 17:57:51+00:00
+Advent-of-Code-2024,d73f274af69db2706319d52b5cccbabed4365499,Initial commit,2024-12-01 17:56:51+00:00
+Automated-EMI-Reminder-System,9123be72c34af91a49fbf791a1cf2e2805221a2a,add automation template for ui path,2024-10-30 19:23:42+00:00
+IDB-Analytics,46b904d8d28f2c857b0f071f455aee9eb2fe0e52,Delete additional files,2024-10-29 04:49:15+00:00
+IDB-Analytics,aecff34f64db472ebd9987f755afdc0e5e3ac67a,output file,2024-10-29 04:48:41+00:00
+IDB-Analytics,4ab18af1df4f63bc14022e9a1725140ec2452a54,Update README.md,2024-10-29 04:43:59+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,916cb52e214f0d1f3d8a9d340d417cc87da54fea,Update Data Description,2024-10-27 18:11:34+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,e66a8a1984e7c4ad32a65b72a4f8d801f85c8294,Update README.md,2024-10-27 18:07:58+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,66bd6d2edc37f8b9f42a89fd083ec866b169217a,adding existing files,2024-10-27 18:06:29+00:00
+Automated-EMI-Reminder-System,8139f3611042b7c6eddcda938c265d363fba8ac4,Update README.md,2024-10-27 17:36:29+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,d5e73fd44ea5d3e77334794f14ef3eeb50234ab5,Update README.md,2024-10-27 17:31:10+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,c11998adb9a31a93437f99fd9cf42a2aabd4a56c,r,2024-10-27 17:30:41+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,3a8c251de88f768dac01ffe793a275f54751b865,remove unnecessary files,2024-10-27 17:30:26+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,899031b62f10700052524e51af992b0b113f0ac1,Update README.md,2024-10-27 17:29:56+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,26c63fd7afb2d1fe6de91abb798d6a62174ddc51,remove unnecessary files,2024-10-27 17:24:05+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,3bd6e774ea9a6129506812af1a18d112c08c6aaa,remove unnecessary files,2024-10-27 17:23:42+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,0b8bd30e532455ebe843d8b455b7d41f424c9ce6,move to data folder,2024-10-27 16:58:02+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,80e8ada24cbba9ed917815f156eba3f540ff6f94,move to data folder,2024-10-27 16:57:29+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,3ea91fa45cd1a5aa4a42791776c6998db0b32a8d,move data folder,2024-10-27 16:56:50+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,1048a261df81ed2a5177c67bb5ec94002417dbc6,create folder for data,2024-10-27 16:56:07+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,110e175f9dccddb50778f512c94b6d20851832f6,Add files via upload,2024-10-27 16:54:11+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,ad7960153fa9f334db19f4697b06a63f245c0b6e,update project description,2024-10-27 16:53:06+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,e584c7f09feb5a4e776b0be309e85a7f788d2505,adding presentation slides,2024-10-27 16:49:19+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,94382449b63f458a2d92ee4eb40a78facc6c9533,Add files via upload,2024-10-27 16:48:39+00:00
+Automated-EMI-Reminder-System,a35592b8c2d84977e5292bb9083066ed94723c7d,Update README.md,2024-10-25 14:13:36+00:00
+Automated-EMI-Reminder-System,a865dd6385a85d41e099355a22b56a4cd0e748b7,Add files via upload,2024-10-25 14:12:56+00:00
+Automated-EMI-Reminder-System,ccc2a54fab11a251a5e32f023068bb316407d389,Initial commit,2024-10-23 15:23:34+00:00
+Carbon-Footprint-Monitoring-in-AI-Driven-Legal-Research,204a4ad1be06d78771818707556d6317d1b46318,Initial commit,2024-10-23 14:42:24+00:00
+Crime-Data-Analysis,f6ff4d7f8411c4288f6f7d89ec625be8b01725ba,adding dataset,2024-05-11 18:17:04+00:00
+Crime-Data-Analysis,c12f45c4e6884da46cf44101def76b55c69b8ad4,Delete repeating files,2024-05-11 18:16:15+00:00
+Crime-Data-Analysis,7c670cd204b09d7c727759fdcf9ac8627844ada5,Add files via upload,2024-05-11 18:15:44+00:00
+Crime-Data-Analysis,4efe05ef965ad053a14ebed2da0ec8017978fa7d,Delete repeating files,2024-05-11 18:14:46+00:00
+Crime-Data-Analysis,fbf912e13d7894a8cdc7fdb83878cba6a93ca7eb,Delete repeating files,2024-05-11 18:14:27+00:00
+Crime-Data-Analysis,92668a8eb91258e5dd472adfce15377ff2d965a9,Delete repeating files,2024-05-11 18:14:08+00:00
+Crime-Data-Analysis,c4679b2808ca274cc29008a8c8b266fe0520b7e9,Delete repeating files,2024-05-11 18:13:49+00:00
+Crime-Data-Analysis,925164736f429e31ed63ef8ed8aac659b197dbca,Delete repeating files,2024-05-11 18:13:36+00:00
+Crime-Data-Analysis,cb0a09b064873cae5d50f78d590a1db431ae1658,Delete repeating files,2024-05-11 18:13:21+00:00
+Crime-Data-Analysis,7528af699af6f5163ece87d1f8278915bbcb9262,Delete property_stolen_and_found.csv,2024-05-11 18:12:55+00:00
+Crime-Data-Analysis,26b9fd67d005d2728abbbd27e3f5d94232fe17ac,uploading datasets,2024-05-11 18:12:15+00:00
+Crime-Data-Analysis,60ff2ddb3e97dadf4b4fc6aa4570b6e383881796,Create models folder,2024-05-11 18:09:16+00:00
+Crime-Data-Analysis,a41e4c602333cda8af220c1b0d90272991e0aa80,Create datasets folder,2024-05-11 18:08:38+00:00
+Crime-Data-Analysis,af25be90dd68a9ede3b26ebe6564f453e6fb2a72,Update README.md,2024-05-11 18:08:05+00:00
+Iris-Data-Classification-Analysis-using-SPSS,2303b42338c76bd5ffd21690adb6a947f57c5c4d,Update README.md,2024-05-11 18:06:47+00:00
+Predicting-ODI-World-Cup-2023-Champions,ed0dbf36561c6de87d1f6395bf88090d57d7e10d,adding datasets for final prediction,2024-05-11 18:03:56+00:00
+Predicting-ODI-World-Cup-2023-Champions,1b4cbfc359e0a86df5303b8450f319c297f36aa5,adding final model,2024-05-06 15:32:07+00:00
+Predicting-ODI-World-Cup-2023-Champions,457d3c76524f7ee43374e26f3c19ff076c5a3634,uploading datasets,2024-05-06 15:27:40+00:00
+Iris-Data-Classification-Analysis-using-SPSS,8fa6261e76ebb2efb32c53c615e259f68e9ef5b8,evaluating using metrics,2024-05-06 15:10:08+00:00
+Crime-Data-Analysis,ed3e1a8e876ff2a8e646dfcbb77b6c9c1c938a1a,uploading dataset,2024-05-06 14:48:50+00:00
+Stock-Market-Prediction-app,93eee18a2344f093d20c51f091b5434c78d806f7,Update models,2024-05-01 20:40:36+00:00
+Stock-Market-Prediction-app,116a0f431ea0be766608f9c9b67a2682fdc59ad7,update helpers.py,2024-05-01 20:39:26+00:00
+Stock-Market-Prediction-app,fcc7d7bcf008ddac8511bad82906c05ba6b8d35d,Delete helpers.py,2024-05-01 20:39:01+00:00
+Stock-Market-Prediction-app,f8a16b4c2de519a472f9ef5bd79ee0d00e1bfeb0,Delete utils,2024-05-01 20:38:33+00:00
+Stock-Market-Prediction-app,f28637ab70d0cf51e16e2dd5b30625614a85dfa5,Add files via upload,2024-05-01 20:37:59+00:00
+Stock-Market-Prediction-app,51c9ac4664bbf7c2fd0fd23a15615e3f18f42008,Add files via upload,2024-05-01 20:37:34+00:00
+Stock-Market-Prediction-app,93d795d35a2f8324d955c72a084fc61a31cd318f,Update pycache,2024-05-01 20:36:59+00:00
+Stock-Market-Prediction-app,587e754143aa511cb2847dd08e7f1ecc68def0d1,adding data,2024-05-01 20:34:23+00:00
+Stock-Market-Prediction-app,e975db6cabf80d9a0c975f7c4360bf1808089b96,Create anomalies,2024-05-01 20:33:46+00:00
+Stock-Market-Prediction-app,648a84967567541532cb4573eb827ac651cf91a6,Add files via upload,2024-05-01 20:33:11+00:00
+Stock-Market-Prediction-app,1c91ce2e1c5a744fe941e40d469e440b275dc3c9,Create model,2024-05-01 20:32:29+00:00
+Stock-Market-Prediction-app,c15272c3e12f5c3eed5ac7b66b1bc09def05f88a,Add files via upload,2024-05-01 20:30:35+00:00
+Stock-Market-Prediction-app,56a371188fd2bd0ed6aa20658df008eb05594735,Create styles.css,2024-05-01 20:30:15+00:00
+Stock-Market-Prediction-app,2a3d528e43614f63ecc49e8630242ae8d7cf0f8d,add results.html,2024-05-01 20:29:23+00:00
+Stock-Market-Prediction-app,9f4d93a9b4875839c7b7da18a1f3e702464ed834,Update index.html,2024-05-01 20:29:00+00:00
+Stock-Market-Prediction-app,27f027cc94319d831467c5366b11f663ef69d2ae,Create index.html,2024-05-01 20:28:24+00:00
+Stock-Market-Prediction-app,d86c3c1f129ed13529fdae40243ff0ba9c6fc351,adding code files,2024-05-01 20:27:12+00:00
+Stock-Market-Prediction-app,82640de1857687233b8d03ea64f7ea25b82ec624,Initial commit,2024-05-01 19:07:51+00:00
+Predicting-ODI-World-Cup-2023-Champions,2ff74645b385d488c6e13914233bfd48f5033208,Add files via upload,2024-05-01 16:10:51+00:00
+Predicting-ODI-World-Cup-2023-Champions,6fa0f3cb548b20110c974bf80523c7291f0fe325,Add files via upload,2024-05-01 16:08:10+00:00
+Data-Analytics-with-Python,3190963886670e612d453b6cb5485a4528738b21,Add files via upload,2024-04-08 21:24:01+00:00
+Data-Analytics-with-Python,325a009b27ac33c62c04ebcb77791e9ba08a9a1b,Create experiment 5,2024-04-08 21:23:04+00:00
+Data-Analytics-with-Python,3b1d1739bac6abb604e333fc18cbedb5fcf86c70,adding existing code file,2024-04-08 21:00:37+00:00
+Data-Analytics-with-Python,5986220662965cd76c17131efcf471846ff262b5,Create experiment 4,2024-04-08 21:00:10+00:00
+Data-Analytics-with-Python,fbb612ec6d7306bc2cc4ed46e9549022bc7a128b,Add files via upload,2024-04-08 20:20:20+00:00
+Data-Analytics-with-Python,9141cb17f718548d2670023e49e0415be68c4f89,Create experiment 8 folder,2024-04-08 20:20:04+00:00
+Data-Analytics-with-Python,eae02b4586e2ebaba30762297ec419c0012e6184,Add files via upload,2024-04-08 19:25:51+00:00
+Data-Analytics-with-Python,14076a0b89d50431c73a84ecce164f31940917bb,Create experiment 7 folder,2024-04-08 19:25:28+00:00
+Data-Analytics-with-Python,aa6ae352f4c6cca82facb2aece545c9fd73caa4c,Add files via upload,2024-04-04 04:54:22+00:00
+Data-Analytics-with-Python,f28917c2ac0af578e480d44953993cbdc252e132,Create experiment 3 folder,2024-04-04 04:47:04+00:00
+Data-Analytics-with-Python,ca0fa9842cd2ac2560a2ea92121e8a3ea864eac4,Add files via upload,2024-04-04 04:46:23+00:00
+Data-Analytics-with-Python,61503fbb3ebd8b410bafa86edfdb0df825744f12,Delete experiment 2/exp2_Stats.ipynb,2024-04-04 04:45:50+00:00
+Data-Analytics-with-Python,34086dd6f34f8c034084fbd132190ee4efa3d988,Add files via upload,2024-04-04 04:34:05+00:00
+Data-Analytics-with-Python,162b26d546c0fd941a471175fc3d037835ad02f7,Create experiment2 folder,2024-04-04 04:33:27+00:00
+Data-Analytics-with-Python,df4be3abb5008a39d834b7bf35161328695467cf,Add files via upload,2024-04-04 03:40:35+00:00
+Data-Analytics-with-Python,558cbe6eded9783a64441153716e7c676b56729c,Add files via upload,2024-04-04 03:39:30+00:00
+Data-Analytics-with-Python,b4f9728a44e4abb548c526306d38df15f6a893bd,Create Data Analytics repository,2024-04-04 03:30:03+00:00
+Predicting-ODI-World-Cup-2023-Champions,d1dfaf63a071192ec22721a0ebc4cd25e3bef712,Create models folder,2024-04-02 15:36:15+00:00
+Kaggle-workbooks,9e306d391d6416898282736043bed6722deb03c1,Update README.md,2024-03-16 18:28:20+00:00
+IoT-and-Heat-Mapping-Data,9685919481eaf4fa45dd0fd173c8c25e93f6f1db,Update README.md,2024-03-13 00:34:39+00:00
+IoT-and-Heat-Mapping-Data,c69a00f7f4b2aa9f9bc12abc62e2a9356f58f4b0,Add files via upload,2024-03-13 00:34:20+00:00
+IoT-and-Heat-Mapping-Data,99a07d527fbfa946f69966727aba5224d804660d,Create Pest Identification folder,2024-03-13 00:32:00+00:00
+Iris-Data-Classification-Analysis-using-SPSS,8d7559ad0e1fc7a6beb6c195ae17c8b37b2427c9,Add files via upload,2024-03-10 17:18:03+00:00
+JeninaAngelin,31a939bb6a193170a20c20e7235dd26f82045b1a,Update README.md,2024-03-07 15:35:18+00:00
+Kaggle-workbooks,f49f2b70ca1c2b75dc8976ec24f839e534fecb4b,Update README.md,2024-03-05 17:09:52+00:00
+Predicting-ODI-World-Cup-2023-Champions,c80a701fb1a5cf26b4c5a0327b75ce6ea1500520,Create datasets folder,2024-02-29 16:43:11+00:00
+DL-Simplified,557032a38ece646c9a0da176af531951943c36eb,Create requirements.txt,2024-02-28 17:38:49+00:00
+DL-Simplified,a0bf3cb74ebe67e66bdc19fbb6f67a748332d916,Create requirements.txt,2024-02-28 17:37:37+00:00
+DL-Simplified,fbdba48c69add566988802b6ebfc884b737dd432,adding supportive images,2024-02-28 17:36:04+00:00
+DL-Simplified,58f751968f3aded0b3b1a5a6e376486fc6e6c1fb,Create images folder,2024-02-28 17:34:53+00:00
+DL-Simplified,36f71992679666500d6ddd75c191af5bcbe597e0,uploading model file,2024-02-28 17:33:58+00:00
+DL-Simplified,e625720b9d3fd6566b9182c5bf3ba924abe3bb9a,Create model folder,2024-02-28 17:33:26+00:00
+DL-Simplified,e3ae68096842901f4822e8199f7aaaa1d4cf588c,uploading data as images,2024-02-28 17:32:51+00:00
+DL-Simplified,e5f3d768be57a88ff0ffb7310eb709ccf8b07981,Create Bill Data Extraction project,2024-02-28 17:30:55+00:00
+CalcDiverse,e6119b919bda03b24b5998310ef9acfc735a28e9,Update README.md,2024-02-28 17:25:28+00:00
+CalcDiverse,0870b88cb66e7805c779dba172c68c3ceacab9c9,Update README.md,2024-02-28 17:24:33+00:00
+CalcDiverse,0033a7c0098d5cdd6c96226f8224792f324b750a,Update README.md,2024-02-28 17:24:15+00:00
+CalcDiverse,8336531e4bc1890213e487a4f61082920f60d65f,Update README.md,2024-02-28 17:23:58+00:00
+CalcDiverse,014e1b44d1086df3742750ec079da180221c5089,adding sample output,2024-02-28 17:22:11+00:00
+CalcDiverse,60d35a2aa3b881e95d0075aa17b3063d69a16a06,Update README.md,2024-02-28 17:18:51+00:00
+CalcDiverse,72e8b11f646eb02d32f157ebb0eb9c13d3e1d865,adding codefiles,2024-02-28 17:17:16+00:00
+CalcDiverse,f45104f4ffbc101ddcb9437055ccc0fee8dbabd4,Create Prompt Box Calculator,2024-02-28 17:16:56+00:00
+CalcDiverse,4be958debcf1571f9b49d3f7d1b1a02b2f630327,Delete Prompt box Calculator directory,2024-02-28 17:16:18+00:00
+CalcDiverse,f0ceb9db418b9b80777020cb1a431632c479ba1d,upload code files,2024-02-28 17:16:01+00:00
+CalcDiverse,653957b5c9c4008209316ac844a66246e410c43e,Create Prompt Box Calculator,2024-02-28 17:15:05+00:00
+DL-Simplified,2613e50c43b9f7948742baa75188bf757d93d75b,Update README.md,2024-02-28 16:14:02+00:00
+DL-Simplified,af1692dc610933a82d2d7bd6a5d42f71ff808d3f,removing excess image,2024-02-28 16:12:20+00:00
+DL-Simplified,ffec39c66e1edb2dd99dc447e97182b59faeff5b,finalizing completed model,2024-02-28 16:11:41+00:00
+DL-Simplified,0d5059cfc3c4a35ba501ea8eda5a90747c104138,upload and check dataset,2024-02-28 16:11:02+00:00
+DL-Simplified,a30d2072d66243f040e997bf50d3e1c65bd3f887,Add files via upload,2024-02-28 16:09:34+00:00
+DL-Simplified,dd80be9c2464c12a69c9f06dd6024e263b92179e,Create dataset folder,2024-02-28 16:08:59+00:00
+DL-Simplified,2a0a357c6918722187743646a0d7de56c87d11a6,Add files via upload,2024-02-28 16:08:13+00:00
+DL-Simplified,12a8430132f6c1e4c33c761c01176e12aab42f0c,Create images folder,2024-02-28 16:07:57+00:00
+DL-Simplified,419f6208c72e49ea5b5152c053dd347fbfaeb11e,Add files via upload,2024-02-28 16:07:14+00:00
+DL-Simplified,39fcac12240e7280399ae72df0f7b197a23ce35a,Create model folder,2024-02-28 16:06:54+00:00
+DL-Simplified,02bb30e80fbba9ee9a5305eb1919ff48a156824e,Create Heart Disease Prediction project,2024-02-28 16:02:37+00:00
+Python-Gamez-Arena,1dafa7898f7a3c8858d129bc1cb189855b53b8e5,Update README.md,2024-02-28 15:20:00+00:00
+Python-Gamez-Arena,af46471591b7cda4bbdcfcefb2a01f03abf1c5fc,Update README.md,2024-02-28 15:19:40+00:00
+Python-Gamez-Arena,ed23a98583d006c1b81ce75741fb228e977abebb,displaying output sample in README.md,2024-02-28 15:19:10+00:00
+Python-Gamez-Arena,e4fb28edf1cc2612c50851db2da0bc0905fbd358,uploading output image,2024-02-28 15:15:52+00:00
+Python-Gamez-Arena,67946ca6ae2134722e4113285c165c3576e4c08f,Update README.md,2024-02-28 15:11:06+00:00
+Python-Gamez-Arena,fbcd12e4789b09ef2e6e2a6eac8b8f5055147463,Delete wrong file,2024-02-28 15:10:15+00:00
+Python-Gamez-Arena,a5a02c895342d6db6de504d3f18b115290dd136f,adding images needed for the game,2024-02-28 15:09:29+00:00
+Python-Gamez-Arena,7404bea4d6551c45ae7a9b52f54f93bed2ef801e,Create static folder,2024-02-28 15:08:30+00:00
+Python-Gamez-Arena,4df0c90c9fe17bad4d6905a4c205f52cc063cbc4,adding main python file,2024-02-28 15:06:59+00:00
+Python-Gamez-Arena,1e8f3e68a4cf4164feac73940c67f535ce357b10,adding text to test the user,2024-02-28 15:06:17+00:00
+Python-Gamez-Arena,9ad5627a24b346eb308050f14e22bff99f8ea04f,Create README.md,2024-02-28 15:05:03+00:00
+Iris-Data-Classification-Analysis-using-SPSS,4ea5e8b96aad16c0fef84d93e34ab0c33d2aa5b1,Add files via upload,2024-02-27 16:12:16+00:00
+Iris-Data-Classification-Analysis-using-SPSS,f6d3e3d8788a128510b2886ee72654f04f340f50,Add files via upload,2024-02-25 07:00:24+00:00
+Iris-Data-Classification-Analysis-using-SPSS,912b63d94e64c93084ed2dab1041b17d308e7ac4,Add files via upload,2024-02-24 17:30:33+00:00
+Iris-Data-Classification-Analysis-using-SPSS,866fbbfbcd4916c9b74ad632454f2a6462798466,Add files via upload,2024-02-23 15:23:02+00:00
+JeninaAngelin,b33b0448a018c297e7502c360408ce9619c2dd7d,Update README.md,2024-02-22 18:31:05+00:00
+JeninaAngelin,9d7fdd150be8a1e0b1072bcdb21cbdc5a89a5329,Update README.md,2024-02-22 18:30:45+00:00
+JeninaAngelin,24fe72452f9181f934c9b7d13d4a2f93ea0fc047,Update README.md,2024-02-22 18:29:27+00:00
+Iris-Data-Classification-Analysis-using-SPSS,8a07f4d3190796fe886f99c7a78d59e773cc001c,Add files via upload,2024-02-22 09:14:55+00:00
+Crime-Data-Analysis,d16f94b3a41c83fcadc341560f5d65cfe5ed86d3,Update README.md,2024-02-21 08:58:24+00:00
+Crime-Data-Analysis,6f462fb08a680e426e933d185f12ca6c44522fd9,Update README.md,2024-02-21 08:57:55+00:00
+Crime-Data-Analysis,59960afbb0421af17df022c397e7f32f1b31ea7a,Update README.md,2024-02-21 08:57:23+00:00
+Iris-Data-Classification-Analysis-using-SPSS,4f69728a201453f455886d9a447bfaf2a5c7705b,Add files via upload,2024-02-20 02:43:20+00:00
+Iris-Data-Classification-Analysis-using-SPSS,48747574e8e813f34dd129a35f58115ee843a9fd,Add files via upload,2024-02-19 15:23:01+00:00
+Iris-Data-Classification-Analysis-using-SPSS,336655481002403e83b6c95edcc374f73cfe6fc7,Add files via upload,2024-02-18 14:52:33+00:00
+Iris-Data-Classification-Analysis-using-SPSS,b0b8facd438ae0eee3b2e8d21c183ef90231afdb,Add files via upload,2024-02-17 16:53:44+00:00
+Iris-Data-Classification-Analysis-using-SPSS,1e02643d22234112839d0ee0e31b882e019fc876,Add files via upload,2024-02-16 15:28:03+00:00
+Iris-Data-Classification-Analysis-using-SPSS,aac937c26f540ccb5cfe2833ccc27e4c48ccc350,Add files via upload,2024-02-15 17:09:42+00:00
+Iris-Data-Classification-Analysis-using-SPSS,38d189fb9eaa0d68b6e148586e723c70867aa504,customizing .var file,2024-02-14 15:20:28+00:00
+Iris-Data-Classification-Analysis-using-SPSS,2e0dc3d3dd70de957794e084400f748ffcfb4f8e,analysis of species and getting species table,2024-02-13 14:45:38+00:00
+Iris-Data-Classification-Analysis-using-SPSS,caec4c84f8df78c801c16402752614c89d4aa72e,predicting test set,2024-02-12 13:54:32+00:00
+Iris-Data-Classification-Analysis-using-SPSS,23be214b47e5ad0680e79e31ca8f99483093eb7d,Update README.md,2024-02-11 15:33:43+00:00
+JeninaAngelin,47b2ca2a471815a791838e87c4b824e8bd0e424d,Update README.md,2024-02-10 13:16:42+00:00
+Iris-Data-Classification-Analysis-using-SPSS,f58e3263f440b35bebcfa0f8bc5f13cb0d0f5577,customizing parameters and building model,2024-02-09 15:14:45+00:00
+Iris-Data-Classification-Analysis-using-SPSS,e4a9ee6c5269d44960ad57c7d65e1bcdbe70f491,"target variable
+
+Converting type of variable 'species'  from categorical to nominal and declaring it as the target variable by changing the role",2024-02-08 16:01:16+00:00
+Iris-Data-Classification-Analysis-using-SPSS,a5c49bde6f3060ad57e273ca0b06e7f247cdefde,removing variable 'Id' for model building,2024-02-08 15:58:03+00:00
+Iris-Data-Classification-Analysis-using-SPSS,d722b9ef5aa6358b6532d00120d5f8d3319711e3,reading iris_model.csv using .var file,2024-02-07 17:20:54+00:00
+Iris-Data-Classification-Analysis-using-SPSS,127560a43f53a1df8fe7f7179d4641698caba849,previewing filtered data,2024-02-06 15:40:37+00:00
+Iris-Data-Classification-Analysis-using-SPSS,81056abe58211174b739528d3b41b8b3bfb8ba56,filtering data,2024-02-05 16:34:52+00:00
+Iris-Data-Classification-Analysis-using-SPSS,c01a40dba03376cf1f23087a933b830604db51b4,loading data,2024-02-04 17:52:58+00:00
+Iris-Data-Classification-Analysis-using-SPSS,eec828c7ecf62e8af1c00bb28a2957b207269b72,Create README.md,2024-02-02 18:40:58+00:00
+Iris-Data-Classification-Analysis-using-SPSS,727eba7c793c0f2db501cdef744748c7f04eb7a4,evaluating the classification model,2024-02-02 15:15:08+00:00
+Iris-Data-Classification-Analysis-using-SPSS,fea903f6be4b0c44e3baf6e742fa2c32a79d3fb4,uploading main data file,2024-02-01 15:41:47+00:00
+Iris-Data-Classification-Analysis-using-SPSS,3e670278708c395976573f9d9900dbe8bf99a421,Delete irisex.xls,2024-02-01 15:40:57+00:00
+Iris-Data-Classification-Analysis-using-SPSS,77e9da9ed0fce76aeda6f2148bb81212273a20a1,developing model and analyzing metrics,2024-01-30 19:40:26+00:00
+Iris-Data-Classification-Analysis-using-SPSS,15669a1ffaf48d334430c8bdcb6e381605b73995,building the model,2024-01-29 18:38:14+00:00
+Iris-Data-Classification-Analysis-using-SPSS,cf7b9386a0fbe82d7b01119de099d3976ea466ea,Add files via upload,2024-01-29 17:12:19+00:00
+Iris-Data-Classification-Analysis-using-SPSS,a118647e53c1378d5b2bcebdcb68b067dc8297a6,Add files via upload,2024-01-28 16:40:39+00:00
+Iris-Data-Classification-Analysis-using-SPSS,5ec3c123e885b83c365c034a1ab04538fc3c8880,analyzing the species,2024-01-27 04:02:20+00:00
+Iris-Data-Classification-Analysis-using-SPSS,196060ed5f13cd12d51163970d8fbc870ae7a2b3,loading and filtering data,2024-01-26 06:09:18+00:00
+Iris-Data-Classification-Analysis-using-SPSS,fc08a85b182fd0bae931d48b18bb49eb191b9d57,Create final.jpg,2024-01-25 15:21:59+00:00
+Iris-Data-Classification-Analysis-using-SPSS,fe6df032cd614d63ea1dddd544dd0b2ff75210d2,file after processing,2024-01-24 16:17:55+00:00
+Iris-Data-Classification-Analysis-using-SPSS,75aa78fdb1ca67f7e200e7c0eaed88d1bee6dcff,Create iris.csv,2024-01-23 15:59:55+00:00
+Iris-Data-Classification-Analysis-using-SPSS,db38028aff34b83b92fa09480ee4e15709b46e15,Add files via upload,2024-01-22 15:34:17+00:00
+Iris-Data-Classification-Analysis-using-SPSS,44ba4977bab4a2a9b25b35b04b415f106acd23e5,Initial commit,2024-01-21 18:08:15+00:00
+Advanced-AI-programs,ec2737732384193402e49a8464228bf7aec12878,Update README.md,2024-01-20 18:17:06+00:00
+Crime-Data-Analysis,2c3f57084a5211a2cb96894efc2adae8b222a748,add ipython notebook,2024-01-19 16:26:34+00:00
+Crime-Data-Analysis,42beb0aed9b8764d7c5b8467fdae2ef3528abe6c,Add files via upload,2024-01-18 17:54:57+00:00
+Crime-Data-Analysis,3a611098f867fabb9f47e4ca0b942c0362e04fe5,Initial commit,2024-01-18 17:54:38+00:00
+Data-Science-programs,d0b931d25ba09a12270870fe85c99040a7853a04,Update README.md,2024-01-16 15:55:54+00:00
+IDB-Analytics,954d889d4d720d24dd34057c9b0c0e3573160484,Update README.md,2024-01-15 18:17:00+00:00
+IDB-Analytics,7ae0d946cddfb699cff75b9d570858354692e098,Update README.md,2024-01-15 18:15:47+00:00
+Predicting-ODI-World-Cup-2023-Champions,2fd656e6bc0be585fcab4967da94553d8c5182d1,Initial commit,2024-01-14 14:22:30+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,212ff5a2d9064a814fdca2e7e260fd52cef1c289,Add files via upload,2024-01-13 13:40:58+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,065b6b0886a5508cdc4e263e936b5169480ca8ff,Delete block/rooms,2024-01-13 13:40:29+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,0ba228d018f4a39a1145047e167ec9d7841ef76f,Add files via upload,2024-01-13 13:40:07+00:00
+Image-Steganography,b9ab61b7c325b64a8d5c5036dd443d368b2381b6,adding report,2024-01-13 13:31:56+00:00
+JeninaAngelin,005906e8ae2debe985a8a5cdda5e0f0d4f5f3320,Update README.md,2024-01-10 20:01:15+00:00
+JeninaAngelin,22df4fdce6de7179579d9375ce5bf06886abef84,Update README.md,2024-01-10 19:59:16+00:00
+IDB-Analytics,b91133cd6dea23fefc671e6afe841b0c239be1a2,Update README.md,2024-01-10 19:56:08+00:00
+IDB-Analytics,4044d30664e27b2bceb03e66eb89d59f8fb95a39,upload insights from data,2024-01-10 19:51:00+00:00
+Image-Steganography,3442fe376aa0db34846bf6557076a9152599aeb4,Add files via upload,2023-11-26 11:55:40+00:00
+Image-Steganography,389df0a5078fad04543775ac7cb8411a6b1f526f,Initial commit,2023-11-24 13:29:04+00:00
+IDB-Analytics,de0d813034a5e0e8ab381b26d106753e4214e8bf,Add files via upload,2023-11-24 13:23:25+00:00
+IDB-Analytics,b23e7c420153894cb16e3b0a5b1e7e36cb3288e1,Delete IDB_Analytics.ipynb,2023-11-24 13:20:52+00:00
+IDB-Analytics,6a3ed1ec6103b20a03b17c339a848687027ff2ce,Add files via upload,2023-11-21 18:27:05+00:00
+IDB-Analytics,1a4da8132443297c612e3df3bd8d7887149ed9f6,Add files via upload,2023-11-21 16:40:17+00:00
+IDB-Analytics,e54816610bcc15bf56f1f5ef3746016395f1f58f,Initial commit,2023-11-21 16:13:45+00:00
+Advanced-AI-programs,23d01db4772b00b42eb846d399d183117bcf36cf,Update README.md,2023-10-09 15:26:40+00:00
+Advanced-AI-programs,76c1f8f7afc12067f76af997be66a5f0004558a6,Add files via upload,2023-10-07 03:56:15+00:00
+Advanced-AI-programs,930e42c8adef3b6a68fb23307272763040408a40,Add files via upload,2023-10-05 17:11:41+00:00
+Advanced-AI-programs,866ba507ff1edc11d25c461a85a72e46d3380e55,Add files via upload,2023-10-04 17:16:27+00:00
+Advanced-AI-programs,d968ec70595bade3a3133f0248c7a8b2e3d5afc6,Add files via upload,2023-10-03 18:36:15+00:00
+Advanced-AI-programs,8d36240dce78f77d0ae119993e14d8e0799a99df,Delete Sentiment_Analysis.ipynb,2023-10-03 18:35:42+00:00
+Advanced-AI-programs,99203d7daff604ac0b954ab43e2f4cd47e11d11f,Add files via upload,2023-10-03 17:43:50+00:00
+Data-Science-programs,a2cd7a42b8ca236e9cdac5d1a80a438e9cbd1ddf,Update README.md,2023-10-01 17:24:29+00:00
+IoT-and-Heat-Mapping-Data,2e272481507aeebb0ab60fddcf5dde2b78792ee8,Update README.md,2023-09-30 12:08:57+00:00
+Advanced-AI-programs,b30306deb4339473529e194438dd00a7304cdfa3,Update README.md,2023-09-29 17:34:48+00:00
+Advanced-AI-programs,e11192ba0d3eceb46197bea3bc5fd12af0666cb6,Add files via upload,2023-09-28 17:21:10+00:00
+Advanced-AI-programs,55f18c241178281d94b54aad16fd5d42f0187368,Add files via upload,2023-09-27 12:47:14+00:00
+Advanced-AI-programs,1c70bc6728ab35faef61b8e15bc3c708de56377b,Add files via upload,2023-09-25 15:21:43+00:00
+Advanced-AI-programs,9de9717f31cc936d50ef9b32e6cc2ea76995e615,Add files via upload,2023-09-24 13:09:33+00:00
+Advanced-AI-programs,482ea620698fc17b00cececc6649bb6e04cf1734,Initial commit,2023-09-23 15:31:54+00:00
+Data-Science-programs,268649d55858ac3774588bdb1fae7bb3ed693681,Add files via upload,2023-09-22 07:44:08+00:00
+Data-Science-programs,e49dd761a6cb6bd0d25469b38c33e94f740a7160,Add files via upload,2023-09-21 16:24:17+00:00
+Data-Science-programs,ddc3d8b35173f340a4acbad069e750bd0acc9242,Add files via upload,2023-09-20 17:56:01+00:00
+Data-Science-programs,9a225462995a9844b01773e9b3e148374281b9cf,Add files via upload,2023-09-19 08:53:39+00:00
+IoT-and-Heat-Mapping-Data,d2885fd269b78f335a20104758372e8f0f79e90c,Add files via upload,2023-09-17 18:27:48+00:00
+IoT-and-Heat-Mapping-Data,993122397592ef46d0a95ede691449c19bbd4d9f,Initial commit,2023-09-17 15:21:04+00:00
+Data-Science-programs,f002cc17ce0290ff7072e31376f083aee82e0b0c,Add files via upload,2023-09-16 15:28:41+00:00
+Data-Science-programs,9fa61329eb335553720e8a69cf8680bfc085e398,Add files via upload,2023-09-15 16:49:52+00:00
+Data-Science-programs,3276213ac8c460223b3b11b131ca5b9a61c34be7,Add files via upload,2023-09-13 18:33:49+00:00
+Data-Science-programs,cbba773f429dbd28bb3c6321918b010756a6fcf5,Add files via upload,2023-09-13 18:09:00+00:00
+Data-Science-programs,dd27f002467f83957f567a2f543d93075fbce259,Update README.md,2023-08-27 18:21:34+00:00
+Computer-Vision-Project,2cb5cc7f0fd9c556bc247afeef6b43b7be476f7a,Update README.md,2023-08-26 17:58:37+00:00
+JeninaAngelin,5dac797d8920643f389bfb6c7a8db6b4ed1e3e5a,Update README.md,2023-08-25 17:37:26+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,9e4527e57314060091de906b9b68699a56d79076,Add files via upload,2023-08-22 11:37:32+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,58b65761d51863152119603b314f1d89b012fced,Create rooms,2023-08-22 11:35:04+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,c7c0c25a7f89f869876c5462edcc5ca0a0f5b751,Update README.md,2023-08-21 17:52:05+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,945721662ecad025c420ca04352d5f2372e338fb,Update README.md,2023-08-19 17:36:00+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,e12a2e55339747ccac8497a3787e82c8c752c94f,Update README.md,2023-08-02 18:02:46+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,7ee24dc6efc7758792ecda28b1932b4bc8a0c049,Update README.md,2023-07-31 18:09:56+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,9cc0a9eaf041f9e3e474f987270b6055a642269f,Update README.md,2023-07-27 15:38:16+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,121cd4d1e8081d13dcd84566002913db96e39742,Update README.md,2023-07-27 15:36:12+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,a18b9d3b562e89d9e17f9192dd98c22801faa982,Add files via upload,2023-07-26 17:30:26+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,b3751c8808db879ef787102fc0ebda73f084c4d9,Add files via upload,2023-07-25 17:51:17+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,33a74a907be33db11fccc627699c1cfd023f0f2e,Update README.md,2023-07-24 13:56:46+00:00
+Ultimate-Library-Project,762a8874c6bdc7af87d5a784164e253cdace693d,Update README.md,2023-07-23 18:14:20+00:00
+Ultimate-Library-Project,cf29d9756df7d373df80496084d01dd8d38bc741,Update README.md,2023-07-23 18:12:57+00:00
+Ultimate-Library-Project,a5f6fa03a181d5310694099ed72c95cd530a4270,Update conclusion section in README.md,2023-07-23 18:11:59+00:00
+Mapping-and-Securing-Campus-Network-Topologies-using-Cisco-Packet-Tracer,6cc889d1ece9c3b9cf6c61497e005a2b625db646,Initial commit,2023-07-20 17:46:10+00:00
+Ultimate-Library-Project,3e0fd3f340eb3f7aea9082ecdeaa36a7eccc6422,Update login.php with css link,2023-07-17 17:08:15+00:00
+Ultimate-Library-Project,ed79760543f505e446061793fc8aee4dc37da79c,adding stylesheet,2023-07-17 17:02:56+00:00
+Ultimate-Library-Project,6ae95f040621134a8340a367284b5088e232c376,Added recommendations section in README.md,2023-07-16 17:18:20+00:00
+Ultimate-Library-Project,ea2cb02f5b23e40eb73c7709cc9d00887f27bcfa,"Update README.md
+
+Added contents from digital access management document",2023-07-15 18:46:30+00:00
+Ultimate-Library-Project,1a371c3377ba66f852aed3436d449b9e30ee81fd,dealing with transactions,2023-07-15 18:36:28+00:00
+Ultimate-Library-Project,92190d1450f55a68a00c472f2a11e988a4fd24f4,make changes in book details,2023-07-15 18:35:50+00:00
+Ultimate-Library-Project,cfed4aab3927db5fcfc234c88c48e837103a71b3,make changes in member details,2023-07-15 18:35:01+00:00
+Ultimate-Library-Project,3ba14938cf2698017f9872e6dbc7f52f0d563a1b,for person details,2023-07-15 18:34:17+00:00
+Ultimate-Library-Project,6f5ab19e2ebc8771485109b1e61ee6be8482c018,for book details,2023-07-15 18:33:51+00:00
+Ultimate-Library-Project,e2b498c51bdb281e1ca831211391136bf19f9617,connecting with database and server,2023-07-15 18:33:13+00:00
+Ultimate-Library-Project,a3861a99f3c5a408e4de94843297134bb7b7c031,queries for database,2023-07-15 18:32:13+00:00
+Ultimate-Library-Project,743e6b288c8ec121305c3708bfc9c12c6714071a,"Login page for the platform
+
+Contains options to decide which function should be done",2023-07-15 18:31:07+00:00
+Ultimate-Library-Project,e196481cf9880781b567a5651f6305ed1345456f,Initial commit,2023-07-15 18:14:12+00:00
+Nexus-2.0,597d94157827b6f310840a85ba14d0345c0213b2,Update stylesheets links in contact.html,2023-07-14 16:40:03+00:00
+Nexus-2.0,0942bf998fa40becf6a09c41073928b07c0b6d4c,Update title bar in index.html,2023-07-14 16:37:58+00:00
+Nexus-2.0,80c21033ecf6a36963dd018efc88d7f39dc8f934,Update contact.html,2023-07-13 16:52:15+00:00
+Nexus-2.0,3e0553f4ac17b0b77c909c6de384101ecfd38810,Delete script,2023-07-12 18:16:09+00:00
+Nexus-2.0,bd7ee0f6311be11134e9cce8450ca85c294fa217,js file added,2023-07-12 18:15:54+00:00
+Nexus-2.0,8f9d9792c822e028333834257a06a8cc3c3de961,Create JS folder,2023-07-12 18:14:43+00:00
+Nexus-2.0,4d2f6abf12594a409302aa68d4d532724b05c6ca,Delete settings,2023-07-12 18:13:51+00:00
+Nexus-2.0,5ddd49fb6358adf382f056c956b86466a4b51c7d,Add files via upload,2023-07-12 18:13:37+00:00
+Nexus-2.0,19cce589155b5f32dd74ea468809429675d431aa,Create settings,2023-07-12 18:13:20+00:00
+Nexus-2.0,bb524dc373e35e83513b00f539df7c47c86ed097,Delete image,2023-07-12 18:12:40+00:00
+Nexus-2.0,d44bd9f84edb45efd1cb9a926352fb82877903d5,Add files via upload,2023-07-12 18:12:23+00:00
+Nexus-2.0,6452d35b8818cf66aec30df1e5f05b9e0c2c8abe,Create css folder,2023-07-12 18:11:47+00:00
+Nexus-2.0,867dd46bdbac1f306d57b95aa3ab6c7f0dc8b503,Add files via upload,2023-07-12 18:10:24+00:00
+Nexus-2.0,4073ecd17da75f54bc353a1496e3b5bf5aed0643,Create another file to stores images,2023-07-12 18:09:41+00:00
+Nexus-2.0,c073e6b74e57e6c376c0e7a247b3e52617593cdd,Add files via upload,2023-07-12 18:08:38+00:00
+Nexus-2.0,4565bf84511c6255086f238969d1e895b865bdf2,Add files via upload,2023-07-12 18:07:01+00:00
+Nexus-2.0,a9509f1403b43ac41d3d3f9a73d67b0d0751bafb,Add files via upload,2023-07-12 18:05:39+00:00
+Nexus-2.0,900c148536f86369ca883e5ef4da9f4c9673fdaa,Add files via upload,2023-07-12 17:58:03+00:00
+Nexus-2.0,85c804cca041097323a158cabec3466075a20a23,Create file in images folder,2023-07-12 17:57:14+00:00
+Nexus-2.0,148a900aa095787b6629f2f05716a42ffd413178,Add files via upload,2023-07-12 17:55:58+00:00
+Nexus-2.0,2ef64ed93ea98496f8d24e7af460b67b900c7218,Create images folder,2023-07-12 17:55:16+00:00
+Nexus-2.0,fcbacf681ac5468c2f4ea43cba786fddf7200f1f,Add files via upload,2023-07-12 17:53:37+00:00
+Nexus-2.0,9c425eb0f6e5b9b4c7ed0636dd786f6ad5d8c22d,Initial commit,2023-07-12 17:52:05+00:00
+Data-Science-programs,a5e847a4c704fac52d53957e17b1203ccecd5cf1,Add files via upload,2023-07-09 08:56:21+00:00
+Data-Science-programs,05a7590f63a46dacb8e0b67185c0f3f368d89e89,Add files via upload,2023-07-08 17:11:50+00:00
+Financial-Risk-analysis,3e63dd545109f6d07065a981c87b93c559919460,Add files via upload,2023-07-07 15:47:02+00:00
+Financial-Risk-analysis,50936e4bf70c6e203f6dd142214d0537977de433,Add files via upload,2023-07-05 18:39:48+00:00
+Data-Science-programs,0678da6fc5d68620c2a39240e6fa9668ef08da4c,Initial commit,2023-07-03 13:44:33+00:00
+Library-Management-with-PHP,d7b7111425c54dfeafcc86df91e1ae6e1693a186,Add files via upload,2023-07-01 19:45:49+00:00
+Library-Management-with-PHP,457f51ef51f9ea582984d022b00e6284a7afd32b,Add files via upload,2023-07-01 19:41:59+00:00
+JeninaAngelin,e9ac68b75b712ea0354cce8b00b629aeb131ce9e,Update README.md,2023-06-30 17:23:58+00:00
+JeninaAngelin,14866625cc839c61b5eea375b34df26850cbbdab,Update README.md,2023-06-29 18:37:24+00:00
+JeninaAngelin,830c1dd4349abcefd6be45f22e5671d79e27faa0,Update README.md,2023-06-29 17:30:06+00:00
+Library-Management-with-PHP,6abfe6f03f5d9f38035297bab4a6a7395589b88c,Update README.md,2023-06-29 17:28:38+00:00
+JeninaAngelin,d20c6a11a631e1fcac5e5f4f6502a0f3acf331e9,Update README.md,2023-06-28 17:40:24+00:00
+JeninaAngelin,39456f5419a7095ac10077386f65f6cbc5fb4654,Update README.md,2023-06-27 10:30:26+00:00
+Library-Management-with-PHP,a1af31f080a399d31e5e00d613814d6d7ec72051,Add files via upload,2023-06-26 12:58:11+00:00
+Library-Management-with-PHP,dbebb78e77fdbf089c543d063478d654480ea3fa,Add files via upload,2023-06-25 17:40:17+00:00
+Library-Management-with-PHP,c6bb2a604b20ea8f74189e5e362b69adbe5912ee,Initial commit,2023-06-24 17:44:39+00:00
+JeninaAngelin,9e6d1befc92338accc698b0b75a7b664d3c983b5,Update README.md,2023-06-23 17:18:39+00:00
+Kaggle-workbooks,b03bf6502cd4832d039b9dc8191bc1d0340b1646,Create README.md,2023-06-22 18:43:52+00:00
+Kaggle-workbooks,fe01b9806980ed22e1749934986fdee8e98d14e0,Update README.md,2023-06-22 18:42:37+00:00
+Computer-Vision-Project,c0251c2adf963cd6472e2a4eda4f000e08739f12,Delete unclear,2023-06-20 19:05:41+00:00
+Computer-Vision-Project,51a87fcf10f4703322aa4c39b9e3d60ba113fb24,Add files via upload,2023-06-20 19:04:01+00:00
+Computer-Vision-Project,fcb45650131f306c480bd7a611a7f2af5cc04b21,Add files via upload,2023-06-19 15:30:32+00:00
+Computer-Vision-Project,2b8627480763138326f284e24a1759e4f0088c0d,Add files via upload,2023-06-18 17:01:09+00:00
+Computer-Vision-Project,af7007619db5cc6ce5e148e31a2108f2a927e39c,Add files via upload,2023-06-17 15:12:54+00:00
+Computer-Vision-Project,c980b9941b74d541751514011a905a3e55d32db5,Add files via upload,2023-06-16 13:46:00+00:00
+Iris-Classification-using-Python,045bf4c8939fb0fa088d4cc30c3bdb132b3e8a78,Add files via upload,2023-06-14 18:33:47+00:00
+Computer-Vision-Project,ddf784c84c7f7d217acc512dfbd60f99b7859a7e,Add files via upload,2023-06-14 18:14:21+00:00
+Computer-Vision-Project,d683c522c85951f9689180d4aff1877dbfd35c4d,Create unclear,2023-06-14 18:13:26+00:00
+Iris-Classification-using-Python,62f87096001e240b2bd58a451c57edc895267cca,Add files via upload,2023-06-14 18:12:34+00:00
+Iris-Classification-using-Python,9e4c938f0ca9d554730877994ce3e47318bf44fa,Initial commit,2023-06-14 18:12:12+00:00
+Diabetes-Prediction,3c121a690f51f3fe0075127649e50ca9fadf7237,Add files via upload,2023-06-13 09:13:53+00:00
+Diabetes-Prediction,49296502896bb7142326750ab56be49040accac3,Add files via upload,2023-06-13 09:10:42+00:00
+Diabetes-Prediction,31970f55d58b5ac0798dd9325818134ba4a7d9b0,Initial commit,2023-06-13 09:08:53+00:00
+Heart-Disease-Prediction,7530bdef17cb935ccf1aec9492839b92b662dcdd,Add files via upload,2023-06-13 01:38:39+00:00
+Heart-Disease-Prediction,af207e0308aec76ab968d621e40b41f99c66ca03,Add files via upload,2023-06-13 01:38:12+00:00
+Heart-Disease-Prediction,e23b53bc2f57695b6e1bfde09473328eb1b30363,Create Conversion,2023-06-13 01:37:40+00:00
+Heart-Disease-Prediction,ce7dbb6d70a1fc0073d801b046ceb809e8f59b03,Delete Heart_diseas_model.ipynb,2023-06-13 01:36:22+00:00
+Heart-Disease-Prediction,eff7205581460394b5f8a7397ff8087f3569039a,Add files via upload,2023-06-13 01:35:51+00:00
+Heart-Disease-Prediction,d189d5f203b49d3473ff1b461a523458dcf5017d,Initial commit,2023-06-13 01:35:12+00:00
+Computer-Vision-Project,4c11500bae06d4013e32694ed2d4f0069f708c50,Add files via upload,2023-06-12 14:28:29+00:00
+Computer-Vision-Project,66fa7897171968337146e89cdd4fe6f878658780,Add files via upload,2023-06-12 14:26:52+00:00
+Computer-Vision-Project,f4ecca196d8b6be1043fdb1566575ea58f68731c,Delete 8,2023-06-11 16:28:30+00:00
+Computer-Vision-Project,af79e4487cd388f493569bf6934ec1435e8d18f8,Add files via upload,2023-06-11 16:27:13+00:00
+Computer-Vision-Project,e799b40e450ed297316e6288878bfd4bff172a5d,Create 8.png,2023-06-11 16:25:57+00:00
+Computer-Vision-Project,317aef4cf5606325cfd7d4eb1ba016144b375d2d,Add files via upload,2023-06-10 08:39:14+00:00
+JeninaAngelin,9f532093861577c088121f0421a93054d04ee778,Update README.md,2023-06-09 18:27:31+00:00
+Computer-Vision-Project,8c86a32f29ea3568d1c8b15e7871ed9a3152577b,Initial commit,2023-06-09 18:24:37+00:00
+JeninaAngelin,f1ee28f7a739b4856ed5d8db82375c948467f0a2,Update README.md,2023-06-08 14:33:46+00:00
+JeninaAngelin,0f2d921bf559d95c1d3b9bc89902d99d7d32b05d,Update README.md,2023-06-08 14:33:25+00:00
+JeninaAngelin,5a019ae966db3f91b74ecbd7bb1e3450edbe4c9d,Update README.md,2023-06-08 14:32:57+00:00
+JeninaAngelin,daed23b368594280b52aa6be65d0ce32c3c1307e,Update README.md,2023-06-08 14:31:45+00:00
+JeninaAngelin,0442c67fb7e400eb16e56c9b0b28799078039ebd,Update README.md,2023-06-08 14:31:27+00:00
+JeninaAngelin,a0da030a37e388211257e35890955d630fb6c1e7,Update README.md,2023-06-08 14:30:33+00:00
+JeninaAngelin,fb57e2502734462894dfe200766f53bcc8d13c50,Update README.md,2023-06-08 14:29:57+00:00
+JeninaAngelin,9fd62993f78d6ef747e519677c73a505d8a9edec,Update README.md,2023-06-08 14:29:21+00:00
+JeninaAngelin,ff99ad8b2b4cac13d8e493124a81aaf2dc400651,Update README.md,2023-06-08 14:28:34+00:00
+JeninaAngelin,057fe049dd5715f85e43d96326870d90bb105f28,Update README.md,2023-06-08 14:27:19+00:00
+JeninaAngelin,c27193e5832f99ef8ad38d4a9c13a6cdcd9fb150,Update README.md,2023-06-08 14:09:15+00:00
